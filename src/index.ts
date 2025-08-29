@@ -32,7 +32,7 @@ const resolvers = {
   },
 };
 
-// Create server with typeDefs and resolvers
+// Create server with typeDefs and resolvers....
 const server = new ApolloServer({
   typeDefs,
   resolvers,
