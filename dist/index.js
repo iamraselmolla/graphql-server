@@ -11,7 +11,6 @@ const typeDefs = `#graphql
     books: [Book]
   }
 `;
-// Sample data
 const books = [
     {
         title: "The Awakening",
